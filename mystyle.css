@@ -1,0 +1,28 @@
+body {
+
+	background-color:#999;
+	font: Arial;
+	margin-left: 35%;
+	margin-right:35%;
+
+}
+
+
+h1{
+	color:#555;
+	text-align: center;
+}
+
+p {
+	background-color: #666;
+	color: white;
+	padding: 25px;
+}
+
+ul {
+	color:#FFF;	
+}
+
+a {
+	text-decoration: none;
+}
